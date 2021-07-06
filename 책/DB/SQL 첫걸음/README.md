@@ -30,3 +30,8 @@ SQL로 다루는것은 관계형데이터베이스.
 
 - **[SQL 첫걸음]** `NOT`연산자 사용법은 `SELECT * FROM sample WHERE NOT (a<>0 OR b<>0)`처럼 사용할 수 있다.
 82p
+
+---
+
+TIL 7월 1일 ~ 7월 6일
+~200p
